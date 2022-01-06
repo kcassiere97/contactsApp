@@ -7,6 +7,6 @@ RUN pip install flask-mysqldb
 
 # ENV PORT=127.0.0.1
 #create image
-COPY --from=python:3.10.1  /myflask /myflask
+# COPY --from=python:3.10.1  /myflask /
 
-ENTRYPOINT echo Install Flask and MySQL Complete 
+ENTRYPOINT echo Flask & MySQL Complete  

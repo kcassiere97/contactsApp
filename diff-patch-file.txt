@@ -1,0 +1,7 @@
+Initialize Database 
+
+Step 1: Install MySQL 
+        :pip install mysql-connector-python
+Step 2: Create Database
+Step 3: Create Tables with propeties for user information 
+Step 4: Insert Values to Table 
