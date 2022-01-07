@@ -5,3 +5,8 @@ Step 1: Install MySQL
 Step 2: Create Database
 Step 3: Create Tables with propeties for user information 
 Step 4: Insert Values to Table 
+
+Flask 
+
+Step 1: export FLASK_ENV=development
+Step 2: flask run
